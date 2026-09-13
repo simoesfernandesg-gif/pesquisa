@@ -1,7 +1,7 @@
 # Programa para calcular conumo de energia de aparelhos
 print("Olá aqui você calcula o consumo de energia de seus aparelhos. Para iniciar me responda:")
 
-print("--------------------------------------")
+print("-----------------------------------")
 
 aparelho = (input("Qual o nome do aparelho ? "))
 potencia = float(input("Qual a potência do aparelho em watts(W) ? "))
