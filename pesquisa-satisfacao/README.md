@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido com a linguagem Python.
 Neste projeto faremos uma pesquisa com 50 pessoas, iniciando com dados simples como: nome, idade e a opnião relacionada ao atendimento, sendo 1 - excelente, 2 - bom e 3 - ruim.
-Ao final da pesquisa teremos uma soma das quantidades de opniões: **Excelente **😄 e **Ruim **😢.
+Ao final da pesquisa teremos uma soma das quantidades de opniões: **Excelente** 😄 e **Ruim** 😢.
 
 Neste programa estamos utilizando estrutura de repetição FOR e de decisão if e elif.
 
