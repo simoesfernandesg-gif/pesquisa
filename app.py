@@ -7,7 +7,7 @@ cont_excelente = 0
 cont_ruim = 0
 
 #entrada de dados: nome, idade e opnião, dentro da estrutura FOR para limitar a pesquisa em 50.
-for i in range(1,4):   
+for i in range(1,51):   
     nome = input("Digite seu nome: ")
     idade = int(input("Digite sua idade: "))
     opiniao = int (input(" DIgite 1-EXCELENTE, 2-BOM e 3-RUIM: "))
